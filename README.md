@@ -69,10 +69,11 @@ A platform designed to help students optimize their study time by providing cura
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexchokka&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexchokka&show_icons=true&theme=radical&count_private=true" alt="Alexchokka's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikabandaru&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexchokka&theme=radical" alt="Alexchokka's GitHub Streak" />
 </p>
+
 
 ---
 

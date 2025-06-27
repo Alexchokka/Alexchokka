@@ -49,7 +49,7 @@ A platform designed to help students optimize their study time by providing cura
                           Donor lists and offline contribution options
                           Payment success feedback
 
-
+🔗Project-link: https://github.com/Alexchokka/Hospital-Management.git
 ---
 
 ## 📫 Contact Me

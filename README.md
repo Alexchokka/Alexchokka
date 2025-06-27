@@ -33,7 +33,7 @@ MS Word, PowerPoint, Excel
 
 ---
 
-## 📘 Featured Project: [Hospital Management](https://github.com/sathwikabandaru/Academic-Resource-Website)
+## 📘 Featured Project: [Hospital Management](https://github.com/Alexchokka/Hospital-Management.git)
 
 A platform designed to help students optimize their study time by providing curated academic content.
 

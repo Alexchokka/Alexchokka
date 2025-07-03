@@ -1,81 +1,68 @@
-## Hi 👋, I'm Alex Chokka
+# 👋 Hi, I'm **Alex Chokka**
 
-🚀 **Cybersecurity, IoT & Blockchain Student | Passionate Developer | Computer Science**
-
----
-
-## 🌐 Currently:
-- 🎓 Studying **Cybersecurity, IoT & Blockchain** at **SRKR Engineering College**
-- 🛠️ Working on an **Iot Based SmartFarming** project
-- 📚 Learning **Data Structures & Algorithms** and **Backend Development**
+🎓 **Cybersecurity, IoT & Blockchain Student**  
+💡 **Passionate Developer | CSE | SRKR Engineering College**  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-**💻 Languages:**  
-C, Python
-
-**🌐 Web Development:**  
-HTML, CSS, JavaScript
-
-**🧠 Database:**  
-SQL
-
-**📦 IoT Platforms:**  
-Raspberry Pi, ESP32
-
-**📎 Sensors Used:**  
-Ultrasonic, IR, Temperature, and more
-
-**🧰 Productivity Tools:**  
-MS Word, PowerPoint, Excel
+- 📖 Currently studying **Cybersecurity, IoT & Blockchain**
+- 🌱 Learning **DSA**, **Backend Development**
+- 🔬 Working on an **IoT-Based Smart Farming** project
 
 ---
 
-## 📘 Featured Project: [Hospital Management](https://github.com/Alexchokka/Hospital-Management.git)
+## 🧰 Tech Stack & Tools
 
-A platform designed to help students optimize their study time by providing curated academic content.
+| Category             | Technologies & Tools                            |
+|----------------------|--------------------------------------------------|
+| 💻 Languages         | C, Python                                        |
+| 🌐 Web Development   | HTML, CSS, JavaScript                            |
+| 🧠 Database          | SQL                                              |
+| 📦 IoT Platforms     | Raspberry Pi, ESP32                              |
+| 🧪 Sensors           | Ultrasonic, IR, Temperature & more               |
+| 🛠️ Productivity      | MS Word, PowerPoint, Excel                       |
 
-### ✨ Key Features:
-🩺**1. Medical Financial Aid System:** Allows patients to check their eligibility for financial aid and apply for assistance. If they are not eligible, they are guided to apply for a medical loan instead.
+---
 
-💳**2. Medical Loan Application & Confirmation:** Offers a structured form to apply for medical loans, collecting personal, employment, bank, and medical details, and provides a success confirmation page once the loan is granted.
+## 💼 Featured Project – [Hospital Management](https://github.com/Alexchokka/Hospital-Management.git)
 
-📅**3. Appointment Booking System:** Enables users to book appointments at MultiSpeciality Hospital via an online form, streamlining patient intake.
+A smart platform for hospitals with automation and support systems.
 
-💰**4. Donation & Payment Gateway:** Facilitates hospital funding through:
-                          UPI-based donations and payments
-                          Donor lists and offline contribution options
-                          Payment success feedback
+### 🔑 Key Modules:
+1. 🩺 **Medical Financial Aid System** – Check eligibility and apply for aid or medical loan  
+2. 💳 **Medical Loan Application** – Submit personal, job, and bank info with a confirmation page  
+3. 📅 **Appointment Booking** – Schedule appointments via an online system  
+4. 💰 **Donation & Payment Gateway** – UPI payments, donor list, offline mode & success alerts  
 
-🔗Project-link: https://github.com/Alexchokka/Hospital-Management.git
+🔗 [GitHub Repository](https://github.com/Alexchokka/Hospital-Management.git)
+
 ---
 
 ## 📫 Contact Me
 
-- 📧 **Email:** alexchokka1289@gmail.com  
-- 💼 **LinkedIn:** [Alex Chokka](www.linkedin.com/in/alex-chokka-065769314)
+- 📧 Email: **alexchokka1289@gmail.com**  
+- 💼 LinkedIn: [Alex Chokka](https://www.linkedin.com/in/alex-chokka-065769314)
 
 ---
 
 ## 💖 Hobbies & Fun Facts
-- 🎨 I love **Driving**  
-- 🐾 I love to listen **songs**  
-- ✨ I believe in **learning through building**
+
+- 🚗 Love **Driving**
+- 🎵 Enjoy listening to **songs**
+- 🛠️ Believe in **learning through building**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexchokka&show_icons=true&theme=radical&count_private=true" alt="Alexchokka's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexchokka&show_icons=true&theme=radical&count_private=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexchokka&theme=radical" alt="Alexchokka's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexchokka&theme=radical" />
 </p>
-
 
 ---
 
-⭐ **Thank you for visiting my profile! Let’s connect and build cool things together.**
-
+⭐ *Thanks for visiting! Let's connect and build awesome things together!*
